@@ -35,11 +35,11 @@ The original idea, the hunger, the direction — is worth more than any pipeline
 
 The starting point doesn't matter. What matters is that the cycle closes. A mediocre completed iteration is worth more than a perfect aborted one.
 
-### 2.3 Blocking Produces More Than Success
+### 2.3 It’s Better to Fail and Learn Than to Succeed in Vain
 
 When execution stops, metacognition begins. A failed build that teaches you something is worth more than a successful build that teaches you nothing.
 
-### 2.4 The Pipeline Cannot See Itself
+### 2.4 The Pipeline Cannot See Itself [Because the user (or agent) should focus on doing one specific task well at a time]
 
 That's why it needs the Overseer. Every execution needs a layer that observes it. The retrospective is not a luxury — it's the other half of the cycle.
 
