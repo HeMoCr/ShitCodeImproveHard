@@ -14,8 +14,8 @@ The code is shit at first. Progress comes through structured iteration. Improvem
 
 ## The Three Roles
 
-| Role | Inspired by | Does |
-|------|-------------|------|
+| Role | Does| 
+|------|-------------|
 | **Overseer** | Watches the whole system, analyzes patterns, produces analysis. Never builds. |
 | **Strategist** | Proposes theory (cT → T → aT), debates with you, prepares specs. |
 | **Builder** | Reads specs, builds the software, reports back. Does not theorize during execution. |
