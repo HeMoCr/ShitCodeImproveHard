@@ -8,7 +8,7 @@ The code is shit at first. Progress comes through structured iteration. Improvem
 
 ---
 
-> **Not limited to software.** This works for research, writing, design, strategy — anything that benefits from structured iteration. Builder can be whatever you need it to be. The Overlord characters are just inspiration; blend it however you want. It's open source. It's flexible.
+> **Not limited to software.** This works for research, writing, design, strategy — anything that benefits from structured iteration. Builder can be whatever you need it to be. Blend it however you want. It's open source. It's flexible.
 
 > **"ImproveHard"** means improve relentlessly, the hard way — through iteration, feedback, and metacognition. No shortcuts. No silver bullets. Just the loop.
 
